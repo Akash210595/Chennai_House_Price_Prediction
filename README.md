@@ -8,9 +8,8 @@ Price Prediction Depending on many Categories.
            2. Numpy
            3. MatplotLib
            4. Seaborn
-           5. Geopy
-           6. ScikitLearn
-           7. Jupyter NoteBook
+           5. ScikitLearn
+           6. Jupyter NoteBook
 #### SUMMARY :
 
       After importing the CSV file, convert it into a dataframe. 
